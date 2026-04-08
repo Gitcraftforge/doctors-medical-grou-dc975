@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Gitcraftforge.github.io/doctors-medical-grou-dc975/sitemap.xml
+Sitemap: https://doctors-medical-grou-dc975.pages.dev/sitemap.xml
